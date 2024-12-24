@@ -46,8 +46,7 @@ This Project is a cutting-edge application designed to transform ✏️ artistic
 
 ---
 
-#### **3. 🐍 Install Python Dependencies**  
-- Navigate to the `api/` folder in the project directory.  
+#### **3. 🐍 Install Python Dependencies**    
 - Install the necessary Python packages using the following command:  
   ```bash
   pip install flask flask-cors numpy pillow opencv-python keras accelerate transformers diffusers tensorflow torch torchvision torchaudio
